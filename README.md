@@ -24,6 +24,7 @@
 
 ### Pull Requests
 * Как это делать написано в [справке GitHub'а](https://help.github.com/articles/using-pull-requests/)
+* Как [работать с Git'ом](http://git-scm.com/book)
 
 ### Пример
 
